@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.emag.newlives.e</string>
+				<string>com.emag.newlives</string>
 				<key>bundle-version</key>
 				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>果善堂</string>
+				<string>kids</string>
 			</dict>
 		</dict>
 	</array>
